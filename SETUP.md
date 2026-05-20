@@ -95,7 +95,7 @@ Ask the user if they want deep crawling capability. If yes:
 
 1. Clone the crawl4ai tool:
 ```bash
-git clone https://github.com/jiaweijwjw/crawl4ai.git ~/code/tools/crawl4ai
+git clone https://github.com/jiaweijwjw/crawl4ai-tool.git ~/code/tools/crawl4ai
 ```
 
 2. Install dependencies:
