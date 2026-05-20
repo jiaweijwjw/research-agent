@@ -2,6 +2,10 @@
 
 A Claude Code subagent that performs parallel multi-source technical research with source credibility tracking, structured output, and optional deep web crawling.
 
+## Getting Started
+
+Copy the contents of [SETUP.md](SETUP.md) and paste it into your Claude Code session. Claude will install the plugin and walk you through setup.
+
 ## Why Use This
 
 When Claude Code needs to research something, it typically uses a single search tool and returns whatever it finds. This agent does it differently:
