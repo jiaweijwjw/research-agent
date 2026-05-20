@@ -1,0 +1,13 @@
+{
+  "name": "research-agent",
+  "description": "Multi-source parallel research agent with source credibility tracking and optional deep web crawling",
+  "owner": {
+    "name": "jiaweijwjw"
+  },
+  "plugins": [
+    {
+      "name": "research-agent",
+      "source": "./"
+    }
+  ]
+}

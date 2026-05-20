@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "context7": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "fetcher": {
+      "command": "npx",
+      "args": ["-y", "fetcher-mcp"]
+    },
+    "reddit": {
+      "command": "uvx",
+      "args": ["--from", "git+https://github.com/adhikasp/mcp-reddit.git", "mcp-reddit"]
+    }
+  }
+}

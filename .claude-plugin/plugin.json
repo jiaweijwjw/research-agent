@@ -1,0 +1,7 @@
+{
+  "name": "research-agent",
+  "displayName": "Research Agent",
+  "version": "1.0.0",
+  "description": "Multi-source parallel research agent with source credibility tracking, structured JSON output, and optional deep web crawling",
+  "keywords": ["research", "search", "documentation", "web-crawling", "mcp"]
+}
